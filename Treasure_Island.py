@@ -39,6 +39,5 @@ if Benutzer == "richtig":
             print("Spiel vorbie.")
     else:
         print("Angriff durch Forelle.")
-
 else:
     print("In ein Loch fallen\n Spiel vorbie")
